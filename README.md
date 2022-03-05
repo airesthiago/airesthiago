@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thiagooliveiraaires
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning back-end languages
-- 💞️ I’m looking to collaborate on new projects
+- 🤝 I’m looking to collaborate on new projects
 - 📫 How to reach me thiagoaires.o@gmail.com
 
 <!---
