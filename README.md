@@ -6,7 +6,7 @@
 - 📚⚗ Science and Technology Student
 - 💻⚙ Computer Engineering Student
 - 👨🏽‍🎓🎓 Scientific Initiation Student
-- 👨‍💻💼 Back-end Developer
+- 👨‍💻💼 Developer
 
 ### You can reach me at:
 
